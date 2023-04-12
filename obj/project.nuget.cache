@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3q5UAymtfLojtInriO4ItwqGEoEkzGK3jWTOzLuYfRkdzNgbsLUBWQPLqiv7bUWUtmgbLx+PNuZqAb8xL+dDkw==",
+  "success": true,
+  "projectFilePath": "/home/hlam/NNLT/vd/vd.csproj",
+  "expectedPackageFiles": [
+    "/home/hlam/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.13/microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

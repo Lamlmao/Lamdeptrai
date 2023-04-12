@@ -1,0 +1,15 @@
+/home/hlam/NNLT/vd/bin/Debug/net6.0/vd
+/home/hlam/NNLT/vd/bin/Debug/net6.0/vd.deps.json
+/home/hlam/NNLT/vd/bin/Debug/net6.0/vd.runtimeconfig.json
+/home/hlam/NNLT/vd/bin/Debug/net6.0/vd.dll
+/home/hlam/NNLT/vd/bin/Debug/net6.0/ref/vd.dll
+/home/hlam/NNLT/vd/bin/Debug/net6.0/vd.pdb
+/home/hlam/NNLT/vd/obj/Debug/net6.0/vd.csproj.AssemblyReference.cache
+/home/hlam/NNLT/vd/obj/Debug/net6.0/vd.GeneratedMSBuildEditorConfig.editorconfig
+/home/hlam/NNLT/vd/obj/Debug/net6.0/vd.AssemblyInfoInputs.cache
+/home/hlam/NNLT/vd/obj/Debug/net6.0/vd.AssemblyInfo.cs
+/home/hlam/NNLT/vd/obj/Debug/net6.0/vd.csproj.CoreCompileInputs.cache
+/home/hlam/NNLT/vd/obj/Debug/net6.0/vd.dll
+/home/hlam/NNLT/vd/obj/Debug/net6.0/ref/vd.dll
+/home/hlam/NNLT/vd/obj/Debug/net6.0/vd.pdb
+/home/hlam/NNLT/vd/obj/Debug/net6.0/vd.genruntimeconfig.cache
